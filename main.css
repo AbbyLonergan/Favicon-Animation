@@ -1,0 +1,8 @@
+svg{
+    transform: scale(.3);
+    display: block;
+    margin: auto;
+    fill: green;
+} 
+
+   .st0{fill:none;stroke:#DAC000;stroke-miterlimit:10;}
